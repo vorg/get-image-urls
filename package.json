@@ -1,6 +1,6 @@
 {
   "name": "get-image-urls",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Scrape image urls from HTML website including CSS background images.",
   "homepage": "https://github.com/vorg/pex-geom.git",
   "keywords": [
