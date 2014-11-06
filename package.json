@@ -1,0 +1,25 @@
+{
+  "name": "image-crawler",
+  "version": "1.0.0",
+  "description": "Scrape image urls from HTML website including CSS background images.",
+  "homepage": "https://github.com/vorg/pex-geom.git",
+  "keywords": [
+    "scraping",
+    "web-crawler",
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Marcin Ignac",
+    "email": "marcin.ignac@gmail.com",
+    "url": "http://marcinignac.com"
+  },
+  "license": "MIT",
+  "key"
+  "dependencies": {
+    "bluebird": "^2.3.10",
+    "phantomjs": "^1.9.12"
+  }
+}
