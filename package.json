@@ -6,6 +6,7 @@
   "keywords": [
     "scraping",
     "web-crawler",
+    "images"
   ],
   "main": "index.js",
   "scripts": {
@@ -17,9 +18,13 @@
     "url": "http://marcinignac.com"
   },
   "license": "MIT",
-  "key"
   "dependencies": {
     "bluebird": "^2.3.10",
     "phantomjs": "^1.9.12"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vorg/get-image-urls.git"
+  },
+  "bugs": "https://github.com/vorg/get-image-urls/issues",
 }

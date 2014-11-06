@@ -11,7 +11,9 @@ npm install get-image-urls
 ```
 
 ## Usage
-Import 
+
+Import
+
 ```javascript
 var getImageUrls = require('get-image-urls');
 ```
@@ -22,7 +24,7 @@ API
 getImageUrls(url, [callback]) //returns Promise
 ```
 
-Result JSON:
+Result JSON
 
 ```json
 [
@@ -60,6 +62,6 @@ getImageUrls('http://google.com')
   console.log(images);
 })
 .catch(function(e) {
-  console.log(e);
+  console.log('ERROR', e);
 })
 ```
