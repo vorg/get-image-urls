@@ -24,9 +24,9 @@ API
 getImageUrls(url, [callback]) //returns Promise
 ```
 
-Result JSON
+Result
 
-```json
+```javascript
 [
 	{ contentType: 'image/png', url: 'http://example.com/bg.png' },
 	{ contentType: 'image/jpeg', url: 'http://example.com/picture.jpg' }
