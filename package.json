@@ -1,6 +1,6 @@
 {
   "name": "image-crawler",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Scrape image urls from HTML website including CSS background images.",
   "homepage": "https://github.com/vorg/pex-geom.git",
   "keywords": [
