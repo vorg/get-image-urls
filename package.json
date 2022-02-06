@@ -20,7 +20,7 @@
   "license": "MIT",
   "dependencies": {
     "bluebird": "^2.3.10",
-    "phantomjs": "^2.1.7"
+    "phantomjs-prebuilt": "^2.1.16"
   },
   "repository": {
     "type": "git",
