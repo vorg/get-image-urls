@@ -1,6 +1,6 @@
 var path = require('path');
 var spawn = require('child_process').spawn;
-var phantomjs = require('phantomjs');
+var phantomjs = require('phantomjs-prebuilt');
 var Promise = require('bluebird');
 
 function getImageUrls(url, callback) {
